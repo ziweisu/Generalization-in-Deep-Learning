@@ -18,3 +18,7 @@ To check the test error and disagreement rate, please run the following command:
 ```
 
 Please note that the first value displayed after running the command is the test accuracy in %.
+
+The author would like to thank Taejong Joo, a fellow first-year IEMS PhD for valuable discussions
+in the course of implementing ResNet18 on CIFAR-10. The code implementation is based on the code from his
+GitHub site: https://tjoo512.github.io/.
